@@ -1,0 +1,15 @@
+.header {
+    background: url('https://images7.alphacoders.com/841/841313.jpg') no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.header-content h1 {
+    font-size: 4rem;
+    margin: 0;
+}
